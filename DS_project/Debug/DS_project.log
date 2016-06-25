@@ -1,0 +1,9 @@
+﻿  main.cpp
+c:\users\administrator\desktop\2학년 1학기\자료구조\ds_project\ds_project\main.cpp(224): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\administrator\desktop\2학년 1학기\자료구조\ds_project\ds_project\main.cpp(239): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+c:\users\administrator\desktop\2학년 1학기\자료구조\ds_project\ds_project\main.cpp(269): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+c:\users\administrator\desktop\2학년 1학기\자료구조\ds_project\ds_project\main.cpp(377): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+c:\users\administrator\desktop\2학년 1학기\자료구조\ds_project\ds_project\main.cpp(390): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+c:\users\administrator\desktop\2학년 1학기\자료구조\ds_project\ds_project\main.cpp(410): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\administrator\desktop\2학년 1학기\자료구조\ds_project\ds_project\main.cpp(423): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\administrator\desktop\2학년 1학기\자료구조\ds_project\ds_project\main.cpp(431): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
